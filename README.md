@@ -8,17 +8,17 @@
 [![Coverage Status](https://codecov.io/gh/aws/aws-sdk-js/branch/master/graph/badge.svg)](https://codecov.io/gh/aws/aws-sdk-js)
 [![Known Vulnerabilities](https://snyk.io/test/github/aws/aws-sdk-js/badge.svg)](https://snyk.io/test/github/aws/aws-sdk-js)
 
-## VERSION 3.x NOW AVAILABLE
+## Versio 3.x Now Available
 The [version 3.x](https://github.com/aws/aws-sdk-js-v3) of the AWS SDK for JavaScript is generally available. For more information see the [Developer Guide](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/) or [API Reference](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/index.html).
 
 For release notes, see the [CHANGELOG](https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md). Prior to v2.4.8, release notes can be found at https://aws.amazon.com/releasenotes/?tag=releasenotes%23keywords%23javascript
 
-Jump To:
+## Table of Contents:
 * [Getting Started](_#Getting-Started_)
 * [Getting Help](_#Getting-Help_)
 * [Contributing](_#Contributing_)
 
-# Getting Started
+## Getting Started
 
 ## How To Install
 
@@ -131,7 +131,13 @@ There are a few known limitations with the bundled TypeScript definitions at thi
 
 # Getting Help
 
-The best way to interact with our team is through GitHub. You can [open an issue](https://github.com/aws/aws-sdk-js/issues/new/choose) and choose from one of our templates for [bug reports](https://github.com/aws/aws-sdk-js/issues/new?assignees=&labels=bug%2C+needs-triage&template=---bug-report.md&title=), [feature requests](https://github.com/aws/aws-sdk-js/issues/new?assignees=&labels=feature-request&template=---feature-request.md&title=) or [guidance](https://github.com/aws/aws-sdk-js/issues/new?assignees=&labels=guidance%2C+needs-triage&template=---questions---help.md&title=). You may also find help on community resources such as [StackOverFlow](https://stackoverflow.com/questions/tagged/aws-sdk-js) with the tag #aws-sdk-js or If you have a support plan with [AWS Support](https://aws.amazon.com/premiumsupport/), you can also create a new support case.
+The best way to interact with our team is through GitHub. 
+You can [open an issue](https://github.com/aws/aws-sdk-js/issues/new/choose) and choose from one of our templates for 
+[bug reports](https://github.com/aws/aws-sdk-js/issues/new?assignees=&labels=bug%2C+needs-triage&template=---bug-report.md&title=), 
+[feature requests](https://github.com/aws/aws-sdk-js/issues/new?assignees=&labels=feature-request&template=---feature-request.md&title=) 
+or [guidance](https://github.com/aws/aws-sdk-js/issues/new?assignees=&labels=guidance%2C+needs-triage&template=---questions---help.md&title=). 
+You may also find help on community resources such as [StackOverFlow](https://stackoverflow.com/questions/tagged/aws-sdk-js) with the tag #aws-sdk-js 
+or If you have a support plan with [AWS Support](https://aws.amazon.com/premiumsupport/), you can also create a new support case.
 
 Please make sure to check out our resources too before opening an issue:
 * Our [Developer Guide](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/welcome.html) and [API reference](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/)
